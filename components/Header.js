@@ -65,22 +65,22 @@ export default function Header() {
                       Home
                     </li>
                   </Link>
-                  <Link href="/tvShows">
+                  <Link href="/">
                     <li className="ml-7 text-sm  hover:border-b hover:text-[#d92525] ">
                       TV Shows
                     </li>
                   </Link>
-                  <Link href="/movies">
+                  <Link href="/">
                     <li className="ml-7 text-sm  hover:border-b hover:text-[#d92525] ">
                       Movies
                     </li>
                   </Link>
-                  <Link href="/new&Popular">
+                  <Link href="/">
                     <li className="ml-7 text-sm  hover:border-b hover:text-[#d92525] black">
                       New & Popular
                     </li>
                   </Link>
-                  <Link href="/myList">
+                  <Link href="/">
                     <li className="ml-7 text-sm  hover:border-b hover:text-[#d92525] black">
                       My List
                     </li>
@@ -128,22 +128,22 @@ export default function Header() {
                       Home
                     </li>
                   </Link>
-                  <Link href="/tvShows">
+                  <Link href="/">
                     <li className="ml-7 text-sm  hover:border-b hover:text-[#d92525] ">
                       TV Shows
                     </li>
                   </Link>
-                  <Link href="/movies">
+                  <Link href="/">
                     <li className="ml-7 text-sm  hover:border-b hover:text-[#d92525] ">
                       Movies
                     </li>
                   </Link>
-                  <Link href="/new&Popular">
+                  <Link href="/">
                     <li className="ml-7 text-sm  hover:border-b hover:text-[#d92525] black">
                       New & Popular
                     </li>
                   </Link>
-                  <Link href="/myList">
+                  <Link href="/">
                     <li className="ml-7 text-sm  hover:border-b hover:text-[#d92525] black">
                       My List
                     </li>
